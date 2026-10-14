@@ -23,13 +23,13 @@
 </table>
 
 ### **Notable projects 📦**
-- [Sistema de Pedidos E-Commerce - Backend](https://github.com/RodrigoFagundez2004/SistemaDePedidos)<br>
+- [Sistema de Pedidos E-Commerce - Backend](https://github.com/Rodrigofagundez2004/SistemaDePedidos)<br>
   *Sistema completo de gestión de pedidos con microservicios, JWT auth, PostgreSQL y emulación de pasarela de pagos*<br>
 
-- [Sistema de Gestión de Bibliotecas - Full Stack](https://github.com/RodrigoFagundez2004/biblioteca-web)<br>
+- [Sistema de Gestión de Bibliotecas - Full Stack](https://github.com/Rodrigofagundez2004/SistemaDeBiblioteca)<br>
   *Aplicación web con autenticación segura, frontend responsive, base de datos en nube y Docker*<br>
 
-- [Gestor de Sala de Emergencias - Java Console](https://github.com/RodrigoFagundez2004/emergency-room)<br>
+- [Gestor de Sala de Emergencias - Java Console](https://github.com/Rodrigofagundez2004/ProyectoGestionSalaEmergencias)<br>
   *Sistema de gestión de pacientes con TDA, algoritmos optimizados y estructuras de datos eficientes*<br>
 
 ### **Technical Skills 👨🏽‍💻**
@@ -91,7 +91,7 @@
 
 ---
 
-📍 Pando, Uruguay | 📱 095 918 062
+ Uruguay | 📱 095 918 062
 
 ### **This is a list of my most recent activity on GitHub:**
 <!--RECENT_ACTIVITY:start-->
