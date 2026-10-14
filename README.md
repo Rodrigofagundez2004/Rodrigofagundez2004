@@ -1,29 +1,29 @@
-<img src="https://github.com/RodrigoFagundez2004/pivettamarcos/blob/main/title_bar2.png" align="left" width="764" height="25">
+<img src="https://raw.githubusercontent.com/RodrigoFagundez2004/pivettamarcos/main/title_bar2.png" align="left" width="764" height="25">
 <table>
   <tbody>
     <tr>
       <td align="center">
         <div>
-        <img src="https://github.com/RodrigoFagundez2004/pivettamarcos/blob/main/computer.gif" width="192" height="172">
+        <img src="https://raw.githubusercontent.com/RodrigoFagundez2004/pivettamarcos/main/computer.gif" width="192" height="172">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=VT323&size=25&duration=1000&pause=500&color=F7F7F7&vCenter=true&multiline=true&repeat=false&random=false&width=540&height=150&lines=%3E+Hi!+I'm+Rodrigo+Fagundez;%3E+Fullstack+Developer;%3E+Pando,+Uruguay_">
-          <img alt="Shows an illustrated sun in light color mode and a moon with stars in dark color mode." src="https://readme-typing-svg.demolab.com?font=VT323&size=25&duration=1000&pause=500&color=070707&vCenter=true&multiline=true&repeat=false&random=false&width=540&height=150&lines=%3E+Hi!+I'm+Rodrigo+Fagundez;%3E+Fullstack+Developer;%3E+Pando,+Uruguay_">
+          <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=VT323&size=25&duration=1000&pause=500&color=F7F7F7&vCenter=true&multiline=true&repeat=false&random=false&width=540&height=150&lines=%3E+Hi!+I'm+Rodrigo+Fagundez;%3E+Backend+Developer;%3E+Pando,+Uruguay_">
+          <img alt="Shows an illustrated sun in light color mode and a moon with stars in dark color mode." src="https://readme-typing-svg.demolab.com?font=VT323&size=25&duration=1000&pause=500&color=070707&vCenter=true&multiline=true&repeat=false&random=false&width=540&height=150&lines=%3E+Hi!+I'm+Rodrigo+Fagundez;%3E+Backend+Developer;%3E+Pando,+Uruguay_">
         </picture>
         </div>
       </td>
     </tr>
     <tr>
       <td align="right">
-          <a href="https://github.com/RodrigoFagundez2004"><img src="https://github.com/RodrigoFagundez2004/pivettamarcos/blob/main/follow_me.png"></a>
-          <a href="https://www.linkedin.com/in/rodrigo-fagundez"><img src="https://github.com/RodrigoFagundez2004/pivettamarcos/blob/main/linkedin.png"></a>
-          <a href="mailto:rodrigofagundez@outlook.com"><img src="https://github.com/RodrigoFagundez2004/pivettamarcos/blob/main/mail.png"></a>
+          <a href="https://github.com/RodrigoFagundez2004"><img src="https://raw.githubusercontent.com/RodrigoFagundez2004/pivettamarcos/main/follow_me.png"></a>
+          <a href="https://www.linkedin.com/in/rodrigo-fagundez"><img src="https://raw.githubusercontent.com/RodrigoFagundez2004/pivettamarcos/main/linkedin.png"></a>
+          <a href="mailto:rodrigofagundez@outlook.com"><img src="https://raw.githubusercontent.com/RodrigoFagundez2004/pivettamarcos/main/mail.png"></a>
       </td>
     </tr>
   </tbody>
 </table>
 
 ### **Notable projects 📦**
-- [Sistema de Pedidos E-Commerce - Backend](https://github.com/Rodrigofagundez2004/SistemaDePedidos)<br>
+- [Sistema de Pedidos E-Commerce - Backend](https://github.com/RodrigoFagundez2004/SistemaDePedidos)<br>
   *Sistema completo de gestión de pedidos con microservicios, JWT auth, PostgreSQL y emulación de pasarela de pagos*<br>
 
 - [Sistema de Gestión de Bibliotecas - Full Stack](https://github.com/Rodrigofagundez2004/SistemaDeBiblioteca)<br>
@@ -91,7 +91,7 @@
 
 ---
 
- Uruguay | 📱 095 918 062
+ Uruguay | 📱 +598 95 918 062
 
 ### **This is a list of my most recent activity on GitHub:**
 <!--RECENT_ACTIVITY:start-->
