@@ -24,7 +24,7 @@
 
 ### **Notable projects 📦**
 - [Sistema de Pedidos E-Commerce - Backend](https://github.com/RodrigoFagundez2004/SistemaDePedidos)<br>
-  *Sistema completo de gestión de pedidos con microservicios, JWT auth, PostgreSQL y emulación de pasarela de pagos*<br>
+  *Sistema completo de gestión de pedidos con microservicios, JWT auth,Kafka, PostgreSQL y emulación de pasarela de pagos, y docker*<br>
 
 - [Sistema de Gestión de Bibliotecas - Full Stack](https://github.com/Rodrigofagundez2004/SistemaDeBiblioteca)<br>
   *Aplicación web con autenticación segura, frontend responsive, base de datos en nube y Docker*<br>
